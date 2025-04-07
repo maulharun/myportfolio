@@ -42,7 +42,7 @@ const projects = [
   {
     title: "Sertifikat Haflah Hifdzil Qur'an 15 Juz",
     description:
-      "Sertifikat haflah Qur&#39;an 15 Juz dan sebagai bukti keaktifan saya Sebagai penerima beasiswa tahfidz di Universitas Ma'soem",
+      "Sertifikat haflah Qur'an 15 Juz dan sebagai bukti keaktifan saya Sebagai penerima beasiswa tahfidz di Universitas Ma'soem",
     link: '#',
     tech: ['Hafalan'],
     image: '/images/sertifikat_15juz.jpg',
