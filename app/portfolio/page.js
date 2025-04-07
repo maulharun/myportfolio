@@ -10,7 +10,7 @@ const projects = [
     title: 'Muletuness',
     description:
       'Aplikasi e-commerce berbasis web yang mendemonstrasikan fitur login, katalog produk, dan checkout. Dikembangkan menggunakan PHP, MySql, JavaScript.',
-    link: 'https://yourportfolio.com',
+    link: 'https://github.com/maulharun/muletuness',
     tech: ['PHP', 'MySql', 'JavaScript'],
     image: '/images/project_e-commerce.jpg',
   },
