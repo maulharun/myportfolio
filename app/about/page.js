@@ -38,7 +38,7 @@ export default function AboutPage() {
         <DecoderText text="Doni Rizki Maulana" shouldShuffle={shuffleTentang} />
       </h2>
       <p>
-        Saya adalah mahasiswa Sistem Informasi di Universitas Ma'soem, lahir tahun 2003 di Bandung,
+        Saya adalah mahasiswa Sistem Informasi di Universitas Ma&#39soem, lahir tahun 2003 di Bandung,
         dan saat ini tinggal di Desa Tegalluar Kec.Bojongsoang, Kabupaten Bandung. Saya memiliki 
         ketertarikan dalam pengembangan website, serta hobi membaca, bermain game, dan mendengarkan musik.
       </p>
@@ -65,7 +65,7 @@ export default function AboutPage() {
           <div className="timeline-item">
             <div className="timeline-dot"></div>
             <div className="timeline-card">
-              <h3 className="timeline-title">Universitas Ma'soem</h3>
+              <h3 className="timeline-title">Universitas Ma&#39soem</h3>
               <p className="timeline-year">2023 - Sekarang</p>
               <p className="timeline-desc">Program Studi Sarjana Sistem Informasi, Fakultas Komputer.</p>
             </div>
@@ -76,7 +76,7 @@ export default function AboutPage() {
             <div className="timeline-card">
               <h3 className="timeline-title">Pondok Pesantren Al-Madinah Antapani Bandung</h3>
               <p className="timeline-year">2016 - 2023</p>
-              <p className="timeline-desc">Pondok Pesantren Tahfidzul Qur'an, diiringi pendidikan kesetaraan SMP dan SMA.</p>
+              <p className="timeline-desc">Pondok Pesantren Tahfidzul Qur&#39an, diiringi pendidikan kesetaraan SMP dan SMA.</p>
             </div>
           </div>
 
@@ -109,10 +109,10 @@ export default function AboutPage() {
 
       <div className="experience-cards">
         <div className="experience-card">
-          Anggota Aktif Himpunan Mahasiswa Fakultas Komputer
+          Anggota Aktif Himpunan Mahasiswa Fakultas Komputer Universitas Ma&#39soem
         </div>
         <div className="experience-card">
-          Pengabdian dan Penanggung Jawab Khalaqah Qur'an di Pondok Pesantren Al-Madinah Antapani Bandung
+          Pengabdian dan Penanggung Jawab Khalaqah Qur&#39an di Pondok Pesantren Al-Madinah Antapani Bandung
         </div>
         <div className="experience-card">
          Penanggung Jawab Khalaqah Qur'an di Pondok Pesantren Darul Mukhlasin Bandung
