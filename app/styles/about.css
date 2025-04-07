@@ -255,6 +255,7 @@ body {
       .about-hero-text{
         min-width: 100%;
         margin-bottom: 30px;
+        margin-left: 0px;
       }
 
       .about-hero-image{
