@@ -121,7 +121,7 @@ const HomePage = () => {
             viewport={{ once: false, amount: 0.5 }}
           >
             <Image
-             src="/images/profile.JPG" 
+             src="/images/profile.jpg" 
              alt="Doni Rizki Maulana" 
              width={320} height={360} 
              className="rounded-lg" />
