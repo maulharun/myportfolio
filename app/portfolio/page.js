@@ -4,6 +4,7 @@ import { motion } from 'framer-motion';
 import DecoderText from '../components/DecoderText';
 import '../styles/portfolio.css';
 import { ExternalLink } from 'lucide-react';
+import Image from 'next/image';
 
 const projects = [
   {
@@ -93,7 +94,7 @@ export default function PortfolioPage() {
             className="portfolio-card"
             whileHover={{ y: -4 }}
           >
-            <img
+            <image
               src={project.image}
               alt={project.title}
               className="portfolio-image"
