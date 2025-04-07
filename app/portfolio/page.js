@@ -32,17 +32,17 @@ const projects = [
     image: '/images/project_portfolio.jpg',
   },
   {
-    title: 'Sertifikat Hifdzil Qur&#39an 30 Juz',
+    title: 'Sertifikat Hifdzil Qur&#39;an 30 Juz',
     description:
-      'Sertifikat hifdzil Qur&#39an 30 Juz dan sebagai bukti kelulusan saya dari Pondok Pesantren Al-Madinah Antapani Bandung',
+      'Sertifikat hifdzil Qur&#39;an 30 Juz dan sebagai bukti kelulusan saya dari Pondok Pesantren Al-Madinah Antapani Bandung',
     link: '#',
     tech: ['Hafalan'],
     image: '/images/sertifikat_30juz.jpg',
   },
   {
-    title: 'Sertifikat Haflah Hifdzil Qur&#39an 15 Juz',
+    title: 'Sertifikat Haflah Hifdzil Qur&#39;an 15 Juz',
     description:
-      'Sertifikat haflah Qur&#39an 15 Juz dan sebagai bukti keaktifan saya Sebagai penerima beasiswa tahfidz di Universitas Ma&#39soem',
+      'Sertifikat haflah Qur&#39;an 15 Juz dan sebagai bukti keaktifan saya Sebagai penerima beasiswa tahfidz di Universitas Ma&#39;soem',
     link: '#',
     tech: ['Hafalan'],
     image: '/images/sertifikat_15juz.jpg',
@@ -50,7 +50,7 @@ const projects = [
   {
     title: 'Sertifikat Haflah Hifdzil Qur&#39an 5 Juz',
     description:
-      'Sertifikat haflah Qur&#39an 5 Juz dan sebagai bukti keaktifan saya Sebagai penerima beasiswa tahfidz di Universitas Ma&#39soem',
+      'Sertifikat haflah Qur&#39;an 5 Juz dan sebagai bukti keaktifan saya Sebagai penerima beasiswa tahfidz di Universitas Ma&#39;soem',
     link: '#',
     tech: ['Hafalan'],
     image: '/images/sertifikat_5juz.jpg',
