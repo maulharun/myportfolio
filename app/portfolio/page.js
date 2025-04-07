@@ -94,7 +94,7 @@ export default function PortfolioPage() {
             className="portfolio-card"
             whileHover={{ y: -4 }}
           >
-            <image
+            <Image
               src={project.image}
               alt={project.title}
               className="portfolio-image"
