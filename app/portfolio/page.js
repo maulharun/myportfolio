@@ -26,7 +26,7 @@ const projects = [
     title: 'MyPortfolio',
     description:
       'Website portofolio pribadi menampilkan profil, pendidikan, dan pengalaman. Dibuat dengan Next.js, Tailwind CSS, Firebase, dan Framer Motion.',
-    link: '#',
+    link: 'https://github.com/maulharun/myportfolio',
     tech: ['NextJs', 'Tailwind', 'Framer-Motion', 'Firebase'],
     image: '/images/project_portfolio.jpg',
   },
