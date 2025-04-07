@@ -115,7 +115,7 @@ export default function AboutPage() {
           Pengabdian dan Penanggung Jawab Khalaqah Qur&#39an di Pondok Pesantren Al-Madinah Antapani Bandung
         </div>
         <div className="experience-card">
-         Penanggung Jawab Khalaqah Qur'an di Pondok Pesantren Darul Mukhlasin Bandung
+         Penanggung Jawab Khalaqah Qur&#39an di Pondok Pesantren Darul Mukhlasin Bandung
         </div>
       </div>
       </div>
