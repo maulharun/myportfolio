@@ -105,7 +105,7 @@ const HomePage = () => {
             </h2>
             <p>
             Halo, saya Doni Rizki Maulana, seorang mahasiswa semester 4 program studi Sistem Informasi
-            di Universitas Ma&#39soem. Saya memiliki minat yang besar dalam pengembangan website dan
+            di Universitas Ma&#39;soem. Saya memiliki minat yang besar dalam pengembangan website dan
             teknologi web.
             </p>
             <p>
